@@ -7,7 +7,7 @@ Repositório Master de Aplicativos JAVA Unicodes
 Unicodes https://www.unicodes.com.br
 
 
-## Autore
+## Autor
 
 - [@Thiago-Unicodes](https://www.github.com/Thiago-Unicodes)
 
